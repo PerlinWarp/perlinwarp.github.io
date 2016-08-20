@@ -6,8 +6,11 @@ var b1 = new block(x,y,true);
 var b2 = new block(x,y,false);
 
 function setup() {
-  var canvas = createCanvas(1400, 800);
-  canvas.parent('sketch-holder');
+  var canvasDiv = document.getElementById("myCanvas");
+  var divWidth = document.getElementById("myCanvas").clientWidth;
+  var sketchCanvas = createCanvas(divWidth,450);
+  sketchCanvas.parent("myCanvas");
+
   background(200);
 }
 
