@@ -1,7 +1,13 @@
 # perlinwarp.github.io
 
-Adding P5.js to a page
+##Adding a post
+
+To add a post make a new mark down file in the _posts folder.
+The naming convention needs to be year-month-day-title.md
+
+## Adding P5.js to a page
 1. Go to _layouts and make a html file
+
 2. Add p5.js and a div where you want your canvas after or before. 
 
 ```
@@ -36,6 +42,7 @@ function setup() {
 ```
 
 Note that myCanvas is the name of the div id. This needs to be the same. 
+
 The script src in the layouts page must be the same as the p5.js file you want to run. 
 
 I create a new layout page for every different post I need processing in. 
