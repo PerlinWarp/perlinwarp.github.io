@@ -10,7 +10,8 @@ Interested in Machine learning, Robotics, Cryptography and all other things tech
 
 ### More Information
 
-I am currently working on implementing Bitcoin and learning Cryptography as part of a [Nuffield Research placement]. 
+I am currently working on implementing Bitcoin and learning Cryptography as part of a [Nuffield Research placement].
+
 [Nuffield Research placement]: https://www.nuffieldresearchplacements.org
 
 ### Contact me
