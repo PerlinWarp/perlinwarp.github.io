@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Sixthform student from Leeds, studying Maths, Further Maths, Physics and Computer Science.
+Interested in Machine learning, Robotics, Cryptography and all other things tech. 
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently working on implementing Bitcoin and learning Cryptography as part of a [Nuffield Research placement]. 
+[Nuffield Research placement]: https://www.nuffieldresearchplacements.org
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:perlinwarp@gmail.com)
