@@ -4,7 +4,7 @@ Adding P5.js to a page
 1. Go to _layouts and make a html file
 2. Add p5.js and a div where you want your canvas after or before. 
 
-'''
+```
 ---
 layout: default
 ---
@@ -19,6 +19,6 @@ layout: default
   <div id="myCanvas"></div>
   <script src="/js/sketches/sketch.js" type="text/javascript"></script>
 </article>
-'''
+```
 
 3.
