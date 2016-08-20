@@ -15,4 +15,4 @@ I am currently working on implementing Bitcoin and learning Cryptography as part
 
 ### Contact me
 
-[email@domain.com](mailto:perlinwarp@gmail.com)
+[perlinwarp@gmail.com](mailto:perlinwarp@gmail.com)
