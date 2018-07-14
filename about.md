@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Sixthform student from Leeds, studying Maths, Further Maths, Physics and Computer Science.
-Interested in Machine learning, Robotics, Cryptography and all other things tech. 
+First year Computer Science student at the University of York. 
 
 
 ### More Information
 
-I am currently working on implementing Bitcoin and learning Cryptography as part of a [Nuffield Research placement].
-
-[Nuffield Research placement]: https://www.nuffieldresearchplacements.org
+Currently trying to improve my Machine Learning skills, so often spend my time on [Kaggle](http://www.kaggle.com). 
 
 ### Contact me
 
